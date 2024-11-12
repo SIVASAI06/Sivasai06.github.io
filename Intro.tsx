@@ -1,3 +1,0 @@
-const Summary = `
-Azure Data Scientist ML/AI Engineer with extensive experience in developing and deploying scalable machine learning models using Azure ML and AKS across finance, healthcare, and retail industries. Proficient in deep learning, NLP, and real-time inference, delivering AI-driven insights to drive strategic decision-making. Skilled in Azure’s ML and data engineering services, with a strong focus on MLOps for streamlined model deployment and monitoring.
-`;
