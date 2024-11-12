@@ -1,4 +1,4 @@
-const educationData = [
+const Education = [
   {
     degree: "Master of Science in Computer Science",
     institution: "University of Illinois, College of Engineering",
