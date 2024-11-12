@@ -1,4 +1,4 @@
-const skills = {
+const Skills = {
   languages: ["Python", "SQL", "R", "PySpark"],
   dataVisualization: ["Power BI", "Tableau", "Matplotlib", "Seaborn"],
   azureServices: ["Azure Machine Learning", "Azure Kubernetes Service (AKS)", ...],
